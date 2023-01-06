@@ -15,4 +15,5 @@ Enfin, votre machine est prête à instancier un WordPress sous docker. Executez
 	docker-compose up -d
 
 Une fois l'installation terminée, entrez dans votre navigateur 
+
 	localhost:8000
