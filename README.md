@@ -1,4 +1,4 @@
-"# NF19_WordPress" 
+"# NF19_WordPress -- BETTINI Jérémy GUICHARD Agathe" 
 
 Pour installer WordPress sous docker, veuillez respecter ces conditions:
 	Vous devez possedez docker ainsi que docker-compose
